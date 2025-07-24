@@ -1,0 +1,96 @@
+## Questions to ask
+
+- What is my research question?
+- What do I need?
+- Spatial extent and resolution
+- Temporal extent and resolution
+- What confidence do I have in the data?
+
+
+
+## Overview
+
+Here's some examples (not exhaustive) of biodievrsity databases More information on Wikipedia [list of biodiversity databases](https://en.wikipedia.org/wiki/List_of_biodiversity_databases)
+
+:::: {.columns}
+
+::: {.column width=33%}
+**Occurrences, species list**
+
+- GBIF
+- INPN & OpenObs
+:::
+
+::: {.column width=33%}
+**DNA**
+
+- GenBank
+- Barcode Of Life Database
+:::
+
+::: {.column width=33%}
+**Trait**
+
+- TRY
+- FishBase
+:::
+
+::::
+
+<br/>
+
+:::: {.columns}
+
+::: {.column width=33%}
+**Taxonomic**
+
+- Worms
+- ITIS
+- Encyclopedia of life
+- Catalog of Life
+- Wiki species
+:::
+
+::: {.column width=33%}
+**Project and/or thematic**
+
+- FRB-CESAB
+:::
+
+::: {.column width=33%}
+**Raw Data**
+
+- PNDB
+
+:::
+
+::::
+
+<br/>
+
+:::: {.columns}
+
+::: {.column width=33%}
+**Essential Biodiversity databases**
+
+- GEO BON https://portal.geobon.org 
+
+:::
+
+::: {.column width=33%}
+**Ecological interactions**
+
+- GloBI https://www.globalbioticinteractions.org/ 
+:::
+
+::: {.column width=33%}
+**Status**
+
+- IUCN
+- CITES
+:::
+
+::::
+
+
+
